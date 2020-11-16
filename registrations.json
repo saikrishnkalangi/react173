@@ -1,0 +1,36 @@
+{
+  "react173": [
+    {
+      "id": 6,
+      "name": "Manish",
+      "email": "manish@gmail.com",
+      "city": "Pune",
+      "course": "UI",
+      "phone": 7896541100
+    },
+    {
+      "name": "saikrishna",
+      "email": "kalangisaikrishna1@gmail.com",
+      "phone": "7093682126",
+      "city": "Narasaraopeta",
+      "course": "React.js",
+      "id": 7
+    },
+    {
+      "name": "Meena",
+      "email": "Meena@gmail.com",
+      "phone": "9876543212",
+      "city": "Guntur",
+      "course": "React.js",
+      "id": 8
+    },
+    {
+      "name": "Raju",
+      "email": "Raju@gmail.com",
+      "phone": "9876556789",
+      "city": "Hyderabad",
+      "course": "Full stack",
+      "id": 9
+    }
+  ]
+}
